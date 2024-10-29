@@ -10,14 +10,14 @@ import yargs from 'yargs';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const require = createRequire(__dirname);
 const {name, author} = require(join(__dirname, './package.json'));
-const {say} = cfonts;
+const {say} = cfonts; lo
 const rl = createInterface(process.stdin, process.stdout);
 
-say('The Mystic\nBot', {
+say('𝐒𝐓𝐈𝐂𝐇\nBot', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`Bot creado por Bruno Sobrino`, {
+say(`Bot creado por TIlIN`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});
