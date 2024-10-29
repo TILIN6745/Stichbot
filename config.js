@@ -11,20 +11,20 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['5215625775955', '👑 𝑴𝒐𝒏𝒐𝒗𝒂𝒏 - Creador 👑', true],
-  ['5219997946282', '💫 𝐏𝐇𝐈𝐀 𝐏𝐑𝐎 𝐁𝐎𝐓 - Collaborator 2 💫', true],
-  ['5219997946282']
+  ['5218336105471', '👑 ᴛɪʟɪɴ - Creador 👑', true],
+  ['5214794070450', '💫 𝐒𝐓𝐈𝐂𝐇 𝐁𝐎𝐓 Collaborator 2 💫', true],
+  ['5214794070450']
 ];
 
-global.suittag = ['5219997946282'];
-global.prems = ['5219997946282'];
+global.suittag = ['5214794070450'];
+global.prems = ['5214794070450'];
 
 global.packname = '𝐒𝐓𝐈𝐂𝐊𝐄𝐑';
-global.author = '𝐏𝐇𝐈𝐀 𝐏𝐑𝐎 𝐁𝐎𝐓';
-global.wm = '𝐏𝐇𝐈𝐀 𝐏𝐑𝐎 𝐁𝐎𝐓';
-global.titulowm = '𝐏𝐇𝐈𝐀 𝐏𝐑𝐎 𝐁𝐎𝐓';
-global.titulowm2 = `𝐏𝐇𝐈𝐀 𝐏𝐑𝐎 𝐁𝐎𝐓`
-global.igfg = '𝐏𝐇𝐈𝐀 𝐏𝐑𝐎 𝐁𝐎𝐓';
+global.author = ' 𝐒𝐓𝐈𝐂𝐇 𝐏𝐑𝐎 𝐁𝐎𝐓';
+global.wm = '𝐒𝐓𝐈𝐂𝐇 𝐏𝐑𝐎 𝐁𝐎𝐓';
+global.titulowm = '𝐒𝐓𝐈𝐂𝐇 𝐏𝐑𝐎 𝐁𝐎𝐓';
+global.titulowm2 = `𝐒𝐓𝐈𝐂𝐇 𝐏𝐑𝐎 𝐁𝐎𝐓`
+global.igfg = '𝐒𝐓𝐈𝐂𝐇 𝐏𝐑𝐎 𝐁𝐎𝐓';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -49,9 +49,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐏𝐇𝐈𝐀 𝐏𝐑𝐎 𝐁𝐎𝐓`;
-global.gt = '𝐏𝐇𝐈𝐀 𝐏𝐑𝐎 𝐁𝐎𝐓';
-global.mysticbot = '𝐏𝐇𝐈𝐀 𝐏𝐑𝐎 𝐁𝐎𝐓';
+global.wm2 = `${dia} ${fecha}\n𝐒𝐓𝐈𝐂𝐇 𝐏𝐑𝐎 𝐁𝐎𝐓`;
+global.gt = '𝐒𝐓𝐈𝐂𝐇 𝐏𝐑𝐎 𝐁𝐎𝐓';
+global.mysticbot = '𝐒𝐓𝐈𝐂𝐇 𝐏𝐑𝐎 𝐁𝐎𝐓';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
